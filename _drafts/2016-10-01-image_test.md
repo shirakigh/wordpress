@@ -2,7 +2,7 @@
 ID: 64
 post_title: image_test
 author: shiraki
-post_date: 2016-10-01 13:45:42
+post_date: 2016-10-01 13:54:29
 post_excerpt: ""
 layout: post
 permalink: http://8hagi.sakura.ne.jp/blog/?p=64
@@ -11,4 +11,4 @@ tags: [ ]
 categories:
   - 未分類
 ---
-<a href="http://8hagi.sakura.ne.jp/blog/wp-content/uploads/2016/10/yuyr-event.jpg"><img class="alignnone size-thumbnail wp-image-63" src="http://8hagi.sakura.ne.jp/blog/wp-content/uploads/2016/10/yuyr-event-150x150.jpg" alt="yuyr-event" width="150" height="150" /></a>
+<a href="http://8hagi.sakura.ne.jp/blog/wp-content/uploads/2016/10/yuyr-event.jpg"><img class="alignnone size-thumbnail wp-image-68" src="http://8hagi.sakura.ne.jp/blog/wp-content/uploads/2016/10/yuyr-event-150x150.jpg" alt="yuyr-event" width="150" height="150" /></a>

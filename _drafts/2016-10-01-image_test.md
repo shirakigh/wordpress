@@ -7,8 +7,8 @@ post_excerpt: ''
 layout: post
 permalink: 'http://8hagi.sakura.ne.jp/blog/?p=64'
 published: true
-tags: [va-1]
-categories: [va-1]
+tags: [藤田咲]
+categories: [藤田さん]
 ---
 
 ### NHK高校化学
